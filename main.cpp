@@ -11,6 +11,6 @@
  */ 
 
 int main() {
-	cout << "Hello Programming II" << endl << "This is a minor change" << endl;
+	cout << "Hello Programming II" << endl << "This is a minor change." << endl;
 	return 0; 
 }
